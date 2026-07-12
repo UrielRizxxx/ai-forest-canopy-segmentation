@@ -39,3 +39,5 @@ Data/
 
 __pycache__/
 *.py[cod]
+
+.vscode/
